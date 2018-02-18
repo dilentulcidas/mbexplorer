@@ -72,7 +72,7 @@
         </div>
         <div class="col-md-6">
             <div class="row">
-                <a href="/"><i class="fa fa-home" style="font-size:25px;color:white;margin-left: 85px; margin-right: 10px;"></i></a>
+                <a href="/"><i class="fa fa-home" style="font-size:25px;color:white;margin-left: 22px; margin-right: 10px;"></i></a>
                 <ul class="nav navbar-nav">
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:white"><span style="vertical-align: middle;">${email}</span>
