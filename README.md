@@ -7,4 +7,4 @@ This is the source code for a web app made with Spring Boot (Java) and also inte
 
 **Last update:** 19th January 2018
 
-[Web app access here](http://mbexplorer-springprojects.1d35.starter-us-east-1.openshiftapps.com)
+[Web app access here](http://mybookmarkexplorer-springprojects.1d35.starter-us-east-1.openshiftapps.com/)
